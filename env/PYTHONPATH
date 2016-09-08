@@ -1,1 +1,1 @@
-PYTHONPATH="/Users/johria/Development/testenvdir/lib:$PYTHONPATH"
+PYTHONPATH="lib:$PYTHONPATH"
